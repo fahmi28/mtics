@@ -1,4 +1,5 @@
-mtics
-=====
+<?php
 
-projectERP
+$hello="fahmi";
+
+echo $hello; 
